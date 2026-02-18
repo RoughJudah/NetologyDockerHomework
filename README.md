@@ -19,4 +19,5 @@ https://hub.docker.com/waldenbranda/custom-nginx/general
 <img width="819" height="141" alt="изображение" src="https://github.com/user-attachments/assets/7d15a664-5658-4210-b71a-6016bfacea77" />
 
 Задача 4:
+
 <img width="928" height="1010" alt="изображение" src="https://github.com/user-attachments/assets/acfd09d2-eefa-43c6-846a-2b7b703d7edd" />
