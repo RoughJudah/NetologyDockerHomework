@@ -21,3 +21,19 @@ https://hub.docker.com/waldenbranda/custom-nginx/general
 Задача 4:
 
 <img width="928" height="1010" alt="изображение" src="https://github.com/user-attachments/assets/acfd09d2-eefa-43c6-846a-2b7b703d7edd" />
+
+Задача 5:
+<img width="2052" height="342" alt="изображение" src="https://github.com/user-attachments/assets/2e87e397-1211-43de-afb6-2da40849120e" />
+В Compose порядок приоритета файлов:
+1. compose.yaml
+2. compose.yml
+3. docker-compose.yaml
+4. docker-compose.yml
+То есть compose.yaml имеет более высокий приоритет, поэтому второй файл игнорируется
+<img width="963" height="277" alt="изображение" src="https://github.com/user-attachments/assets/8b4201da-fa16-49c2-80a6-30cde7658ec8" />
+<img width="1152" height="1079" alt="изображение" src="https://github.com/user-attachments/assets/1bf0aec3-4d6b-4822-b3ff-b5fca2a5d709" />
+Compose предупреждает, что ранее проект был создан с другим набором сервисов часть контейнеров теперь считается orphan containers
+
+<img width="1875" height="123" alt="изображение" src="https://github.com/user-attachments/assets/ee439de8-3b9f-4b7c-ac0d-7a20fb60de85" />
+
+<img width="2040" height="201" alt="изображение" src="https://github.com/user-attachments/assets/8df3a8ce-c180-4431-851a-a293ea375f0b" />
